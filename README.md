@@ -1,4 +1,4 @@
-# Summy Systemd Service
+# Dummy Systemd Service
 Long-running systemd service that only logs to a file.
 [Roadmap.sh project page](https://roadmap.sh/projects/dummy-systemd-service)
 ## Installation
